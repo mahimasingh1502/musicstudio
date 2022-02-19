@@ -1,8 +1,8 @@
 body {
+	margin:0;
 	background: hsla(252, 79%, 25%, 1);
-
-background: linear-gradient(90deg, hsla(252, 79%, 25%, 1) 21%, hsla(255, 88%, 36%, 1) 86%);
-font-family: 'Playfair Display', serif;
+	background: linear-gradient(90deg, hsla(252, 79%, 25%, 1) 21%, hsla(255, 88%, 36%, 1) 86%);
+	font-family: 'Playfair Display', serif;
 	color: white;
 }
 h1,
