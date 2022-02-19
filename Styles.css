@@ -1,5 +1,5 @@
 *{
-	margin:0;
+	margin: 0px;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
 	background: linear-gradient(90deg, hsla(252, 79%, 25%, 1) 21%, hsla(255, 88%, 36%, 1) 86%);
 	font-family: 'Playfair Display', serif;
 	color: white;
-	margin:0px;
+	margin: 0px;
 }
 h1,
 h2,
